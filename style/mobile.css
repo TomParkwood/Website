@@ -1,0 +1,49 @@
+﻿body
+{
+	background-color: #FFFFFF;
+}
+
+p.center
+{
+	text-align: center;
+}
+
+p.bold
+{
+	font-weight: bold;
+}
+
+p.red
+{
+	color: #CC0000;
+}
+
+div#wrapper
+{
+	width: 100%;
+}
+
+div#crumbs-wrapper
+{
+	text-align: center;
+}
+
+div#crumbs
+{
+	text-align: left;
+}
+
+div#head-mobile, div#head-mobile-top, div#crumbs
+{
+	border-bottom: 2px #666666 solid;
+}
+
+div#foot-mobile
+{
+	border-top: 2px #666666 solid;
+}
+
+div#slider, div.desktop, div#dropmenu1, div#dropmenu2, div#sidebar
+{
+	display: none;
+}
