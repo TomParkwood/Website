@@ -13,35 +13,33 @@
 		</div>
 		<div id="head-nav" class="desktop">
 			<ul>
-				<li><a href="http://www.parkwoodsolutions.com/about.php">About</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/news.php">News</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/services.php" rel="dropmenu1">Services</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/products.php" rel="dropmenu2">Products</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/support.php">Support</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/resources.php" rel="dropmenu3">Resources</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/faq.php">F.A.Q</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/careers.php">Careers</a></li>
-				<li><a href="http://www.parkwoodsolutions.com/contact.php">Contact</a></li>
+				<li><a href="about.php">About</a></li>
+				<li><a href="services.php" rel="dropmenu1">Services</a></li>
+				<li><a href="products.php" rel="dropmenu2">Products</a></li>
+				<li><a href="support.php">Support</a></li>
+				<li><a href="resources.php" rel="dropmenu3">Resources</a></li>
+				<li><a href="faq.php">F.A.Q</a></li>
+				<li><a href="careers.php">Careers</a></li>
+				<li><a href="contact.php">Contact</a></li>
 			</ul>
 			<!--drop down menu services-->
 			<div id="dropmenu1" class="dropmenudiv">
-				<a href="http://www.parkwoodsolutions.com/scanning-service.php">Scanning Services</a>
-				<a href="http://www.parkwoodsolutions.com/print-audit.php">Print Audit</a> 
-				<a href="http://www.parkwoodsolutions.com/web-design.php">Web Design</a> 
+				<a href="printer-repairs.php">Printer Repairs</a>
+				<a href="scanning-service.php">Scanning Services</a>
+				<a href="print-audit.php">Print Audit</a>
 			</div>
-			
+
 			<!--drop down menu products-->
 			<div id="dropmenu2" class="dropmenudiv">
-				<a href="http://www.parkwoodsolutions.com/copiers-printers.php">Photocopiers &amp; Printers</a>
-				<a href="http://www.parkwoodsolutions.com/document-management.php">Document Management Systems</a>
-				<a href="http://www.parkwoodsolutions.com/digital-pen.php">Digital Pen &amp; Paper</a>
-				<a href="http://www.parkwoodsolutions.com/print-control.php">Print Control</a> 
+				<a href="copiers-printers.php">Photocopiers &amp; Printers</a>
+				<a href="document-management.php">Document Management Systems</a>
+				<a href="print-control.php">Print Control</a>
 			</div>
-			
+
 			<!--drop down menu products-->
 			<div id="dropmenu3" class="dropmenudiv">
-				<a href="http://www.parkwoodsolutions.com/glossary.php">Glossary Of Terms</a>
-				<a href="http://www.parkwoodsolutions.com/links.php">Drivers, Manuals, Links</a>
+				<a href="glossary.php">Glossary Of Terms</a>
+				<a href="links.php">Drivers, Manuals, Links</a>
 			</div>
 
 

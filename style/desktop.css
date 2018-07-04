@@ -39,7 +39,7 @@ p
 p.footer
 {
 	text-align: center;
-	color: #FFFFFF;	
+	color: #FFFFFF;
 	font-size: 12px;
 }
 
@@ -69,6 +69,10 @@ p.green, span.green
 	color: #669966;
 }
 
+p.blue, span.blue
+{
+	color: #0000CC;
+}
 p.underline
 {
 	text-decoration: underline;
@@ -99,13 +103,13 @@ body
 {
 	margin: 0px;
 	padding: 0px;
-	background-color: #669966;
-	background-image: url('images/body.jpg');
+	background-color: #ffffff;
+	/*background-image: url('images/body.jpg');
 	background-position: left top;
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	width: 100%;
-	color: #404040;
+	color: #404040;*/
 }
 
 div#wrapper
@@ -119,7 +123,7 @@ div#wrapper
 div#head-wrapper
 {
 	width: 990px;
-	height: 150px;	
+	height: 150px;
 }
 
 div#head-top
@@ -357,7 +361,7 @@ div#head-nav li
 	padding-top: 0px;
 	padding-left: 0px;
 	margin: 0px;
-	height: 65px;	
+	height: 65px;
 	text-align: center;
 	float:left;
 }
@@ -376,7 +380,7 @@ div#head-nav li a
 	padding-bottom: 21px;
 	margin: 0px;
 	border-left: 2px #E0E0E0 solid;
-	text-decoration: none;	
+	text-decoration: none;
 }
 
 div#head-nav li a:visited
@@ -397,11 +401,11 @@ div#head-nav li.selected
 
 div#head-nav li.selected a
 {
-	
+
 }
 
 div#head-nav li.selected a:hover
-{ 
+{
 
 }
 
@@ -421,12 +425,12 @@ div.dropmenudiv
 {
 	position:absolute;
 	top: 0;
-	border: 1px solid #c8c8c8; 
+	border: 1px solid #c8c8c8;
 	border-width: 0 1px;
 	font:normal 12px Verdana;
 	line-height:18px;
 	z-index:100;
-	background-color: #FFFFFF;	
+	background-color: #FFFFFF;
 	width: 250px;
 	visibility: hidden;
 }
@@ -436,7 +440,7 @@ div.dropmenudiv a
 	width: auto;
 	display: block;
 	text-indent: 5px;
-	border: 0 solid #c8c8c8; 
+	border: 0 solid #c8c8c8;
 	border-bottom-width: 1px;
 	padding: 2px 0;
 	text-decoration: none;
@@ -452,9 +456,7 @@ div.dropmenudiv a
 }
 
 div.dropmenudiv a:hover
-{ 
+{
 	color: #33CC00;
 	text-decoration: underline;
 }
-
-
