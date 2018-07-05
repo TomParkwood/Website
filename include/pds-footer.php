@@ -46,7 +46,7 @@
 		-->
 	</div>
 </div>
-<p class="footer">Copyright � 2018: ParkWood Document Solutions |
+<p class="footer">Copyright 2018: ParkWood Document Solutions |
 <a href="privacy-policy.php">Privacy Policy</a> | <a href="site-map.php">Site Map</a></p>
 </div>
 

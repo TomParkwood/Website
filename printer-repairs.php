@@ -2,6 +2,8 @@
 <?php
 $pageTitle="Printer Repairs:";
 $pageSummary="We can repair most types of printer and multi-function devices. We operate out of the Hampshire region but have contacts country wide.";
+$metaKeywords = "Printer Repairs, mfp repairs, sharp repairs, utax repairs, photocopier repairs, hampshire printer repairs, hampshire mfp repairs, hampshire photocopier repairs, southampton printer repairs, southampton photocopier repairs, printer repair service";
+$metaDescription = "We can repair most types of printers and multi function devices. Find out what information we would need from you.";
 include('include/pds-main.php');
 include('include/pds-header.php');
 ?>

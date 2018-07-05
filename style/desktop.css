@@ -101,15 +101,7 @@ div.center
 
 body
 {
-	margin: 0px;
-	padding: 0px;
 	background-color: #ffffff;
-	/*background-image: url('images/body.jpg');
-	background-position: left top;
-	background-repeat: repeat-x;
-	background-attachment: fixed;
-	width: 100%;
-	color: #404040;*/
 }
 
 div#wrapper

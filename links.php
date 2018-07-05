@@ -1,4 +1,4 @@
-<?php 
+<?php
 $pageTitle="Resources:";
 $pageSummary="This page has been established to enable our customers to download drivers, software and manuals direct from manufacturers websites";
 include('include/pds-main.php');
@@ -12,10 +12,10 @@ include('include/pds-header.php');
 	<div id="equal-1" class="width-three">
 		<div class="main-span">
 			<h1>Drivers, Manuals &amp; Other Useful Links. . . . . .</h1>
-			<p>Please note that the below links are to external sites. If the links 
+			<p>Please note that the below links are to external sites. If the links
 			are broken, or you can&#39;t find what you are looking for, please
-			<a href="contact.php">Contact Us</a>. We cannot be held responsible 
-			for any damage or loss of data that may arise should you use the drivers 
+			<a href="contact.php">Contact Us</a>. We cannot be held responsible
+			for any damage or loss of data that may arise should you use the drivers
 			and utilities downloaded from these sites.</p>
 		</div>
 		<div class="separator">
@@ -23,16 +23,10 @@ include('include/pds-header.php');
 		<div class="main-span">
 			<div class="left center" style="width: 350px">
 				<br />
-				<img alt="" src="images/logos/sharp.jpg" title="" /> </div>
+				<img alt="" src="images/logos/SharpBeOriginal.jpg" title="" /> </div>
 			<div class="right center" style="width: 350px">
-				<p><a href="http://www.sharpinbusiness.co.uk/" target="_blank">Sharp 
-				in business homepage</a></p>
-				<p>
-				<a href="http://www.sharpelectronics.info/Software.aspx" target="_blank">
-				Sharp drivers &amp; software downloads</a></p>
-				<p>
-				<a href="http://www.sharpelectronics.info/Manuals.aspx" target="_blank">
-				Sharp operation manuals</a></p>
+				<br>
+				<p><a href ="https://www.sharp.co.uk/cps/rde/xchg/gb/hs.xsl/-/html/download-centre.htm" target="_blank">Sharp Download Centre</a></p>
 			</div>
 		</div>
 		<div class="separator">
@@ -45,11 +39,11 @@ include('include/pds-header.php');
 				<img alt="" src="images/logos/kyocera.jpg" title="" /></a></p>
 				<br />
 				<p>
-				<a href="http://www.ricoh.co.uk/TechSupp/index.cfm" target="_blank">
+				<a href="https://www.my-ricoh.com/Enduser/AD3063EB-90E2-4BC7-A6DC-ACB1547D9655/brand/bf120732-ce83-453e-aaee-7dac0a646e6f/language/9f50f866-33ee-4584-be51-5ba95d44734f" target="_blank">
 				<img alt="" src="images/logos/ricoh.jpg" title="" /></a></p>
 				<br />
 				<p>
-				<a href="http://www8.hp.com/uk/en/support-drivers.html" target="_blank">
+				<a href="https://support.hp.com/gb-en/drivers/printers" target="_blank">
 				<img alt="" src="images/logos/hp.jpg" title="" /></a></p>
 				<br />
 				</div>
@@ -59,7 +53,7 @@ include('include/pds-header.php');
 				<img alt="" src="images/logos/laserfiche.jpg" title="" /></a></p>
 				<br />
 				<p>
-				<a href="http://www.equitrac.com/support.asp" target="_blank">
+				<a href="https://www.nuance.com/support.html" target="_blank">
 				<img alt="" src="images/logos/equitrac.jpg" title="" /></a></p>
 				<br />
 				<p>
@@ -69,10 +63,10 @@ include('include/pds-header.php');
 			</div>
 		</div>
 	</div>
-	<?php 
+	<?php
 	include('include/pds-sidebar.php');
 	?>
 </div>
-<?php 
+<?php
 include('include/pds-footer.php');
 ?>

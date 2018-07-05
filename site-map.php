@@ -1,4 +1,4 @@
-<?php 
+<?php
 $pageTitle="Site Map";
 $pageSummary="ParkWood Document Solutions Ltd is all about providing the highest quality equipment and support to your business";
 include('include/pds-main.php');
@@ -21,7 +21,6 @@ include('include/pds-header.php');
 			<p> |---- <a href="products.php">Products</a></p>
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---- <a href="copiers-printers.php">Photocopiers, Printers &amp; MFD's</a></p>
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---- <a href="document-management.php">Electronic Document Management</a></p>
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---- <a href="digital-pen.php">Digital Pen &amp; Paper</a></p>
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---- <a href="print-control.php">Print Control &amp; Accounting</a></p>
 			<p> |---- <a href="support.php">Support</a></p>
 			<p> |---- <a href="resources.php">Resources</a></p>
@@ -36,9 +35,9 @@ include('include/pds-header.php');
 			<p> |---- <a href="privacy-policy.php">Privacy Policy</a></p>
 		</div>
 	</div>
-	<?php 
+	<?php
 	include('include/pds-sidebar.php');
 	?></div>
-<?php 
+<?php
 include('include/pds-footer.php');
 ?>
