@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $faqHeadings[0] = "General Questions";
 $faqHeadings[1] = "Device General";
@@ -49,7 +49,31 @@ $faqQuestion[10] = "Can I use recycled paper in my machine?";
 $faqAnswer[10] = "<p>We recommend that you do not.</p><p>Recycled paper is good for making cardboard boxes and those cup holders you find in coffee shops. It is also of a lower quality than other papeprs. Do not use it in your photocopier!</p><p>Recycled paper has to be washed, mashed, pressed and dried. Unknown to most recycled paper holds a lot more moisture and dust than normal paper. As the machine heats up after prolonged use the moisture and dust in the paper starts to come out and the paper starts to curl causing it to get stuck in the machine&#39;s workings, causing paper jams.</p><p>Saying this, most copiers will cope with up to 50% recycled paper for short print runs. </p>";
 $faqType[10] = 1;
 
+$faqQuestion[11] = "Lines on my prints and copies from my Sharp copier";
+$faqAnswer[11] = "Sometimes lines may appear on your Sharp copier, this can be caused by a number of things.<br>
+The first thing to check, is it only on copy mode?<br>
+Then, is it only when you use the document feeder?<br>
+If this is the case then there will be a small mark on the document feeder target glass (The thin strip of glass to the left of the main glass). Give this a good clean and you should be back in business.</p>
+<p>If it is on both copy and printing, then the lines are being caused by a small bit of toner being stuck to the main charge unit.<br>
+Although this may sound complicated it is really eas to fix, and you will be getting nice clean prints again in minutes.</P>
+<p>You will need to open the front door, and remove the waste toner container. You will then see a green rod attached inside the front door.<br>
+Remove this and insert it into the hole next to each of the four black plastic protuding items. Once you have inserted and removed into each of the four holes, replace the waste toner and put the green rod back into its holder, and carry on printing.<br>
+If this doesn't cure the lines, then please log a call out and we will come and sort it for you.</p>";
+$faqType[11] = 1;
 
+$faqQuestion[12] = "Poor print or missing colours on Oki printers";
+$faqAnswer[12] = "<p>We have found a common problem with a lot of Oki printers, which use the LED print system. Sometimes the mono print will almost disappear or become somewhat hieroglyphic, we have also seen the colours either becoming offset to each other or completely vanishing.</p>
+<ol>
+<li><span style=font-size:14pt;><strong>Turn the machine off and remove the power lead!</span></strong></li>
+<li>Open the cover whch shows the drums and toners.</li>
+<li>Look under the open cover and you will see four black led strips.</li>
+<li>Note the ribbon cable on the right hand side going into these bars.</li>
+<li>Carefully pull the ribbon cable from the led bar.</li>
+<li>Reinsert the cable back into the bar, checking that it is seated securely.</li>
+<li>Restart the machine and test.</li>
+</ol>
+<p>If this doesn't cure the problem, then please log a call out and we will come and sort it out for you.</p>";
+$faqType[12] = 1;
 // $faqQuestion[5] = "";
 // $faqAnswer[5] = "";
 // $faqType[5] = 0;
