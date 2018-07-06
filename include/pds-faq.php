@@ -74,6 +74,16 @@ $faqAnswer[12] = "<p>We have found a common problem with a lot of Oki printers, 
 </ol>
 <p>If this doesn't cure the problem, then please log a call out and we will come and sort it out for you.</p>";
 $faqType[12] = 1;
+
+$faqQuestion[13] = "Setting up shared folders";
+$faqAnswer[13] = "You want to be able to scan to a folder or give access to files to other people on the network, you will need to setup a shared folder. This is actually a lot easier than it sounds.<br>
+We recommend creating a new folder on your desktop or another folder where you will remember where it is.<br>
+You can do this by right clicking on the desktop and hover the mouse over new, then click folder. Give the new folder a sensible name such a Scans.<br>
+Right click on the folder which you wish to share, and select properties. Under the tabs at the top select Sharing, then click the Share... button.<br>
+In the textbox enter everyone and then click Add. Under Permission Level click on everyone and then change it to Read/Write then click Share. It will open a screen which should say Your folder is shared, you can click Done.<br>
+Still under the Sharing tab, click Advanced Sharing..., then there is a button which says Share this folder, select that. Then click Permissions make sure that Everyone is highlighted then on the Permissions, change it to Full Control. You can then click Apply and Ok on the Advanced Sharing menu.<br>
+Back on the folder's properties in Sharing there will be a Network Path:, make a note of this including the \\ becasuse this is the folder you will enter when setting up a Scan to Folder account.";
+$faqType[13] = 0;
 // $faqQuestion[5] = "";
 // $faqAnswer[5] = "";
 // $faqType[5] = 0;
