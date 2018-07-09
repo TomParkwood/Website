@@ -27,7 +27,7 @@ else
 
 <meta content="ParkWood Document Solutions: it@parkwoodsolutions.com" name="author" />
 <meta content="text/html;charset=UTF-8" http-equiv="content-type" />
-<link href="http://www.parkwoodcopiers.co.uk/style/desktop.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="./style/desktop.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="http://www.parkwoodcopiers.co.uk/style/print.css" media="print" rel="stylesheet" type="text/css" />
 <link href="http://www.parkwoodcopiers.co.uk/style/slider.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>

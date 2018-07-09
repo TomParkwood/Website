@@ -39,9 +39,10 @@ if( $url = "error-401.php" || $url = "error-403.php" || $url = "error-404.php" )
 
 <meta content="ParkWood Document Solutions: it@parkwoodsolutions.com" name="author" />
 <meta content="text/html;charset=UTF-8" http-equiv="content-type" />
-<link href="http://www.parkwoodsolutions.com/style/desktop.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="./style/desktop.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="http://www.parkwoodsolutions.com/style/print.css" media="print" rel="stylesheet" type="text/css" />
 <link href="http://www.parkwoodsolutions.com/style/slider.css" media="screen" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 <script src="http://parkwoodsolutions.com/scripts/jQuery.equal.columns.js" type="text/javascript"></script>
 <script src="http://parkwoodsolutions.com/scripts/jQuery.menu.js" type="text/javascript"></script>
@@ -84,4 +85,3 @@ $(window).load(function() {
 <body>
 <div id="top"></div>
 <div id="wrapper">
-

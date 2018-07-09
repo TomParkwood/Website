@@ -84,6 +84,10 @@ In the textbox enter everyone and then click Add. Under Permission Level click o
 Still under the Sharing tab, click Advanced Sharing..., then there is a button which says Share this folder, select that. Then click Permissions make sure that Everyone is highlighted then on the Permissions, change it to Full Control. You can then click Apply and Ok on the Advanced Sharing menu.<br>
 Back on the folder's properties in Sharing there will be a Network Path:, make a note of this including the \\ becasuse this is the folder you will enter when setting up a Scan to Folder account.";
 $faqType[13] = 0;
+
+$faqQuestion[14] = "Changing Network Group Settings";
+$faqAnswer[14] = "This is the answer";
+$faqType[14] = 0;
 // $faqQuestion[5] = "";
 // $faqAnswer[5] = "";
 // $faqType[5] = 0;

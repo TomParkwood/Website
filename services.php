@@ -18,7 +18,9 @@ include('include/pds-header.php');
 			<div class="right" style="width: 550px">
 				<p>While most office printers aren't cheap, the price of repairing a machine can be done for a fraction of a new machine.<br>
 					<br>
-					With proper repairs to your existing printer you can control the printing quality of your machine. So we can restore your printer to almost brand new quality.<br>
+					With proper repairs to your existing printer you can control the printing quality of your machine. So we can restore your printer to almost brand new quality.</p>
+					<p><a class="more" href="printer-repairs.php">
+					<img alt="" src="images/read-more.png" title="" /></a></p>
 			</div>
 			</div>
 		<div class="separator">

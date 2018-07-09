@@ -1,3 +1,4 @@
+<!--
 <div id="head-wrapper" class="desktop">
 	<div id="head-top">
 	</div>
@@ -21,22 +22,25 @@
 				<li><a href="faq.php">F.A.Q</a></li>
 				<li><a href="careers.php">Careers</a></li>
 				<li><a href="contact.php">Contact</a></li>
-			</ul>
+			</ul>-->
 			<!--drop down menu services-->
+			<!--
 			<div id="dropmenu1" class="dropmenudiv">
 				<a href="printer-repairs.php">Printer Repairs</a>
 				<a href="scanning-service.php">Scanning Services</a>
 				<a href="print-audit.php">Print Audit</a>
 			</div>
-
+-->
 			<!--drop down menu products-->
+			<!--
 			<div id="dropmenu2" class="dropmenudiv">
 				<a href="copiers-printers.php">Photocopiers &amp; Printers</a>
 				<a href="document-management.php">Document Management Systems</a>
 				<a href="print-control.php">Print Control</a>
 			</div>
-
+-->
 			<!--drop down menu products-->
+			<!--
 			<div id="dropmenu3" class="dropmenudiv">
 				<a href="glossary.php">Glossary Of Terms</a>
 				<a href="links.php">Drivers, Manuals, Links</a>
@@ -48,4 +52,42 @@
 			</script>
 		</div>
 	</div>
+</div>
+-->
+<div class="topnav">
+	<a class="home" href="index.php">Home</a>
+	<a href="about.php">About</a>
+	<div class="dropdown">
+		<button class="dropbtn">Services
+			<i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+			<a href="printer-repairs.php">Printer Repairs</a>
+			<a href="scanning-service.php">Scanning Services</a>
+			<a href="print-audit.php">Print Audit</a>
+		</div>
+	</div>
+	<div class="dropdown">
+		<button class="dropbtn">Products
+			<i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+			<a href="copiers-printers.php">Photocopiers</a>
+			<a href="document-management.php">Document Management</a>
+			<a href="print-control.php">Print Control</a>
+		</div>
+	</div>
+	<a href="support.php">Support</a>
+	<div class="dropdown">
+		<button class="dropbtn">Resources
+			<i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+			<a href="glossary.php">Glossary</a>
+			<a href="links.php">Links</a>
+		</div>
+	</div>
+	<a href="faq.php">F.A.Q</a>
+	<a href="careers.php">Careers</a>
+	<a href="contact.php">Contact</a>
 </div>
