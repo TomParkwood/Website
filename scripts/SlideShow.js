@@ -19,7 +19,7 @@ function showDivs(n) {
 }
 */
 //Automatically rotate through the images
-var slideIndex = 0;
+/*var slideIndex = 0;
 carousel();
 
 function carousel(){
@@ -33,3 +33,4 @@ function carousel(){
   x[slideIndex-1].style.display = "block";
   setTimeout(carousel, 5000); // Change the image every 5 seconds.
 }
+*/
