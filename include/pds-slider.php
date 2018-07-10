@@ -1,9 +1,9 @@
-<div id="slide-wrapper" class="desktop">
-	<a href="products.php"><img class="mySlides" src="images/slides/slide-1.jpg"/></a>
-	<a href="copiers-printers.php"><img class="mySlides" src="images/slides/slide-2.jpg"/></a>
-	<a href="document-management.php"><img class="mySlides" src="images/slides/slide-3.jpg"/></a>
-	<a href="copiers-printers.php"><img class="mySlides" src="images/slides/slide-4.jpg"/></a>
-	<a href="print-audit.php"><img class="mySlides" src="images/slides/slide-5.jpg"/></a>
+<div id="slide-wrapper" class="desktop" align="center">
+	<a href="products.php"><img class="mySlides" src="images/slides/slide-1.jpg" align="middle"/></a>
+	<a href="copiers-printers.php"><img class="mySlides" src="images/slides/slide-2.jpg" align="middle"/></a>
+	<a href="document-management.php"><img class="mySlides" src="images/slides/slide-3.jpg" align="middle"/></a>
+	<a href="copiers-printers.php"><img class="mySlides" src="images/slides/slide-4.jpg" align="middle"/></a>
+	<a href="print-audit.php"><img class="mySlides" src="images/slides/slide-5.jpg" align="middle"/></a>
 </div>
 <script>
 var myIndex =0;
