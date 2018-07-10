@@ -1,13 +1,3 @@
-<!--<div id="slide-wrapper" class="desktop">
-	<div id="slider" class="nivoSlider">
-		<img alt="" src="images/slides/slide-1.jpg" />
-		<img alt="" src="images/slides/slide-2.jpg" />
-		<img alt="" src="images/slides/slide-3.jpg" />
-		<img alt="" src="images/slides/slide-4.jpg" />
-		<img alt="" src="images/slides/slide-5.jpg" />
-	</div>
-</div>-->
-
 <div id="slide-wrapper" class="desktop">
 	<a href="products.php"><img class="mySlides" src="images/slides/slide-1.jpg"/></a>
 	<a href="copiers-printers.php"><img class="mySlides" src="images/slides/slide-2.jpg"/></a>
