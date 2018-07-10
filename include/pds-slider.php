@@ -7,3 +7,11 @@
 		<a href="print-audit.php"><img alt="" src="images/slides/slide-5.jpg" /></a>
 	</div>
 </div>
+
+<div>
+	<img class="mySlides" src="images/slides/slide-1.jpg"/>
+	<img class="mySlides" src="images/slides/slide-2.jpg"/>
+	<img class="mySlides" src="images/slides/slide-3.jpg"/>
+	<img class="myslides" src="images/slides/slide-4.jpg"/>
+	<img class="myslides" src="images/slides/slide-5.jpg"/>
+</div>

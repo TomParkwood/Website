@@ -54,6 +54,7 @@
 	</div>
 </div>
 -->
+<img id="LogoImage" src="images/Logo/Logo.png">
 <div class="topnav">
 	<a class="home" href="index.php">Home</a>
 	<a href="about.php">About</a>
