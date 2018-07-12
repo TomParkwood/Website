@@ -27,20 +27,6 @@
 		<a class="more" href="news-item.php?id=1">
 		<img alt="" src="../images/more-info.png" title="" /></a> </div>
 </div>
-<!--<div class="feature">
-	<div class="feature-image">
-		<img alt="The digital pen enables you to store and transmit basically anything you write or draw to anywhere in the world." src="../images/feature/feature-pen.png" title="The digital pen enables you to store and transmit basically anything you write or draw to anywhere in the world" />
-	</div>
-	<div class="feature-text">
-		<h3>Digital Pen &amp; Paperwork</h3>
-		<p class="bold green">Collect &amp; send data from the point of capture via
-		Bluetooth technology</p>
-		<p class="bold green">Cut costs and improve your service</p>
-	</div>
-	<div class="feature-more">
-		<a class="more" href="digital-pen.php">
-		<img alt="" src="../images/more-info.png" title="" /></a> </div>
-</div>-->
 <div class="feature">
 	<div class="feature-image">
 		<img alt="2/3rds of businesses underestimate their document &amp; printer costs by up to 50%!" src="../images/feature/feature-audit.png" title="2/3rds of businesses underestimate their document &amp; printer costs by up to 50%!" />

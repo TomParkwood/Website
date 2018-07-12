@@ -1,5 +1,5 @@
 <div id="foot-wrapper">
-	<div class="left center" style="width: 350px;">
+	<div class="left center" style="width: 33%;">
 		<p><b>ParkWood Document Solutions Limited</b><br>
 		Unit 2 Test Valley Business Centre,<br>
 		Test Lane<br />
@@ -9,7 +9,7 @@
 		United Kingdom <br>
 		Phone: 0844 561 6507 </p>
 	</div>
-	<div class="left" style="width: 350px;">
+	<div class="left center" style="width: 33%;">
 		<p class="center">
 		<a href="http://www.linkedin.com/company/parkwood-document-solutions?trk=fc_badge" target="_blank">
 		<img alt="ParkWood Document Solutions on LinkedIn" src="./images/social/following-linkedin.png" title="ParkWood Document Solutions on LinkedIn" /></a>
@@ -20,7 +20,7 @@
 		<a href="http://twitter.com/#!/Photocopiers" target="_blank">
 		<img alt="ParkWood Document Solutions on Twitter" src="./images/social/following-twitter.png" title="ParkWood Document Solutions on Twitter" /></a>
 	</div>
-	<div class="right" style="width: 250px;">
+	<div class="left center" style="width: 33%;">
 		<p class="center"><a href="#top">
 		<img alt="Back To Top" src="./images/footer/up.png" title="Back To Top" /></a>
 		<a href="index.php">
@@ -35,7 +35,5 @@
 <p class="footer">Copyright 2018: ParkWood Document Solutions |
 <a href="privacy-policy.php">Privacy Policy</a> | <a href="site-map.php">Site Map</a></p>
 </div>
-
 </body>
-
 </html>
