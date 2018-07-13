@@ -11,7 +11,7 @@ $email_subject = "Service Enquiry from Website";
         $email_from = $_POST['email_address'];
         $manufacturer = $_POST['manufacturer'];
         $model = $_POST['model'];
-        $issue = $_POST['problem'];
+        $problem = $_POST['problem'];
 
         $error_message = "";
 
@@ -26,4 +26,23 @@ $email_subject = "Service Enquiry from Website";
         {
           $error_message .= ' - The Email address you entered does not appear to be valid.<br>';
         }
+
+        if(strlen($error_message) > 0))
+        {
+          died($error_message)
+        }
+
+        $email_message = "Service enquiry from website, details below. \r\n\r\n";
+
+        function clean)string($string)
+        {
+          $bad = array("content-type","bcc:"."to:","cc:","href");
+          return str_replace($bad, "", $string);
+        }
+
+        $email_message .= "Title: ".clean_string($full_name)"\r\n"
+        $email_message .= "Email: ".clean_string($email_from)"\r\n";
+        $email_message .= "Manufacturer: ".clean_string($manufacturer)"\r\n";
+        $email_message .= "Model: ".clean_string($model)"\r\n";
+        $email_message .= "The stated problem is: ".clean_string($problem)"\r\n";
  ?>
