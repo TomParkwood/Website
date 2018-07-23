@@ -14,7 +14,7 @@ include('include/pds-header.php');
 		<form action="form-submit.php?form=service" method="post" name="servicecontactform">
 			<p class="bold">Please provide the following contact information so
 			that we can respond to you as efficiently as possible:</p>
-			<table width="700px">
+			<table width=100%>
 				<tr>
 					<td class="contact-left">
 					<label class="required">Full Name *</label>

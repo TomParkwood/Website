@@ -1,4 +1,34 @@
 <?php
+/*function IsInjected($str)
+{
+    $injections = array('(\n+)'),
+      '(\r+)',
+      '(\t+)',
+      '(%0A+)',
+      '(%0D+)',
+      '(%08+)',
+      '(%09+)'
+    );
+    $inject = join('|', $injections);
+    $inject = "/inject/i";
+
+    if(preg_match($inject,$str))
+    {
+      return true;
+    }
+    else
+    {
+      return false;
+    }
+}
+
+if(IsInjected($email_from))
+{
+  echo "Bad email value!";
+  exit;
+}*/
+?>
+<?php
 $email_to = "service@parkwoodsolutions.com";
 $email_subject = "Service Enquiry from Website";
 
@@ -34,7 +64,7 @@ $email_subject = "Service Enquiry from Website";
 
         $email_message = "Service enquiry from website, details below. \r\n\r\n";
 
-        function clean)string($string)
+        function clean_string($string)
         {
           $bad = array("content-type","bcc:"."to:","cc:","href");
           return str_replace($bad, "", $string);

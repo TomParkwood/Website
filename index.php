@@ -34,7 +34,7 @@ include('include/pds-slider.php');
 		and distribution by implementing the best hardware, software &amp; new technologies.
 		This makes ParkWood the ideal choice for your office equipment requirements.</p>
 	</div>
-	<div id="equal-4" class="width-two">
+	<div id="equal-4" class="width-five">
 		<?php
 		include('include/pds-feature.php');
 		?>
