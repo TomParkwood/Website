@@ -3,7 +3,7 @@
 		<img alt="ParkWood Trade Partnership" src="../images/feature/feature-ptp.png" title="ParkWood Trade Partnership" />
 	</div>
 	<div class="feature-text">
-		<h3>ParkWood Trade Partnership</h3>
+		<p>ParkWood Trade Partnership</p>
 		<p class="bold green">ParkWood Document Solutions are pleased to announce
 		the establishment of the ParkWood Trade Partnership, a trade to trade,
 		wholesale service, supplying the best in photocopiers and printers, at superb
@@ -18,7 +18,7 @@
 		<img alt="Did you know that all modern copiers have a harddrive that stores every printed and scanned document" src="../images/feature/feature-dsk.png" title="Did you know that all modern copiers have a harddrive that stores every printed and scanned document" />
 	</div>
 	<div class="feature-text">
-		<h3>Looking For Enhanced Security?</h3>
+		<p><bold>Looking For Enhanced Security?</bold></p>
 		<p class="bold green">If so then <a href="contact.php">contact us</a> to
 		discuss our range of Data Security Kits</p>
 		<p class="bold green">Your digital copier may be a potential security risk.</p>

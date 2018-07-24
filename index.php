@@ -7,11 +7,6 @@ include('include/pds-main.php');
 include('include/pds-header.php');
 include('include/pds-slider.php');
 ?>
-<!--
-<div id="crumbs-wrapper">
-	<div id="crumbs">
-		You are at: <a href="index.php">Home</a> </div>
-</div>-->
 <div id="main-wrapper">
 	<div id="equal-1" class="width-two">
 		<p class="red bold center">Welcome to ParkWood Document Solutions Limited</p>

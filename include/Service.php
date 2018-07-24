@@ -1,33 +1,4 @@
-<?php
-/*function IsInjected($str)
-{
-    $injections = array('(\n+)'),
-      '(\r+)',
-      '(\t+)',
-      '(%0A+)',
-      '(%0D+)',
-      '(%08+)',
-      '(%09+)'
-    );
-    $inject = join('|', $injections);
-    $inject = "/inject/i";
 
-    if(preg_match($inject,$str))
-    {
-      return true;
-    }
-    else
-    {
-      return false;
-    }
-}
-
-if(IsInjected($email_from))
-{
-  echo "Bad email value!";
-  exit;
-}*/
-?>
 <?php
 $email_to = "service@parkwoodsolutions.com";
 $email_subject = "Service Enquiry from Website";
@@ -75,4 +46,34 @@ $email_subject = "Service Enquiry from Website";
         $email_message .= "Manufacturer: ".clean_string($manufacturer)"\r\n";
         $email_message .= "Model: ".clean_string($model)"\r\n";
         $email_message .= "The stated problem is: ".clean_string($problem)"\r\n";
+ ?>
+ <?php
+ /*function IsInjected($str)
+ {
+     $injections = array('(\n+)'),
+       '(\r+)',
+       '(\t+)',
+       '(%0A+)',
+       '(%0D+)',
+       '(%08+)',
+       '(%09+)'
+     );
+     $inject = join('|', $injections);
+     $inject = "/inject/i";
+
+     if(preg_match($inject,$str))
+     {
+       return true;
+     }
+     else
+     {
+       return false;
+     }
+ }
+
+ if(IsInjected($email_from))
+ {
+   echo "Bad email value!";
+   exit;
+ }*/
  ?>
