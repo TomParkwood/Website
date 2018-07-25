@@ -29,6 +29,7 @@
 		</button>
 		<div class="dropdown-content">
 			<a href="glossary.php">Glossary</a>
+			<a href="GDPR.php">GDPR</a>
 			<a href="links.php">Links</a>
 		</div>
 	</div>

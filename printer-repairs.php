@@ -17,7 +17,7 @@ include('include/pds-header.php');
 			<h1>Printer Repairs</h1>
 			<div class="left">
 				<img alt="" src="images/Repairs.jpg" title="" height="150px" width="150px"/> </div>
-			<div class="right" style="width: 550px">
+			<div class="left" style="width: 550px">
 				<p>Most office printers aren't cheap.<br>In most cases, a full repair can be made for a fraction of the price of a new printer.<br>
           We can repair most types of printers and mult-function devices (formally known as photocopiers).<br>
           We operate in the Hampshire region but have many contacts country wide.</p>

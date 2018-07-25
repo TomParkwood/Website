@@ -18,22 +18,11 @@ include('include/pds-header.php');
 		Contact Page</a></p>
 		<div class="separator">
 		</div>
-		<!--<div class="main-span">
-			<h1>Downloads. . . . . .</h1>
-			<div class="left">
-				<img alt="" src="images/support4.jpg" title="" /> </div>
-			<div class="right" style="width: 550px">
-				<p>We have a small download page that will be continually updated as required.</p>
-				<p class="center"><a href="downloads.php">Browse Downloads Page</a></p>
-			</div>
-		</div>
-		<div class="separator">
-		</div>-->
 		<div class="main-span">
 			<h1>Service Response. . . . . .</h1>
 			<div class="left">
 				<img alt="" src="images/support1.jpg" title="" /> </div>
-			<div class="right" style="width: 550px">
+			<div class="left" style="width: 550px">
 				<p>Our service response will ensure that any new copier will be
 				up &amp; running on average at least 95% of the time. We will also ensure
 				a 90% first time fix because our engineers will carry the right

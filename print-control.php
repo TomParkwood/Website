@@ -15,7 +15,7 @@ include('include/pds-header.php');
 			<h1>Print Control Software</h1>
 			<div class="left">
 				<img alt="" src="images/products4.jpg" title="" /> </div>
-			<div class="right" style="width: 550px">
+			<div class="left" style="width: 550px">
 				<p>The paperless office is not going to happen.</p>
 				<p>Paper remains the preferred way for businesses to convey information.
 				And for workers who don't think your company's networked communal
@@ -26,7 +26,7 @@ include('include/pds-header.php');
 				<p>Now you can reduce print waste and costs while at the same time
 				providing all the printing security and convenience employees need</p>
 				<p>With Print Control Software you can track, analyze, allocate
-				and, if necessary, recover the costs of every document that any 
+				and, if necessary, recover the costs of every document that any
 				employee sends to any networked printer, copier or multi-function
 				device.</p>
 				<ul>

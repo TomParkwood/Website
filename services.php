@@ -69,20 +69,6 @@ include('include/pds-header.php');
 				<img alt="" src="images/read-more.png" title="" /></a></p>
 			</div>
 		</div>
-		<!--<div class="separator">
-		</div>
-		<div class="main-span">
-			<h1>Web Design. . . . . .</h1>
-			<div class="left">
-				<img alt="" src="images/services3.jpg" title="" /> </div>
-			<div class="right" style="width: 550px">
-				<p>If you are looking for a cheap web design then look no further.
-				ParkWood are pleased to announce that we are now able to provide
-				a web design service to our customers.</p>
-				<p><a class="more" href="web-design.php">
-				<img alt="" src="images/read-more.png" title="" /></a></p>
-			</div>
-		</div>-->
 	</div>
 	<?php
 	include('include/pds-sidebar.php');
