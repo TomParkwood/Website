@@ -36,7 +36,7 @@ include('include/pds-header.php');
 	?>
 	<div id="equal-1" class="width-three">
 		<h2>Printer Repairs Form</h2>
-			<form acton="form-sumbit.php?form=service" method="post" name="servicecontactform">
+			<form acton="form-submit.php?form=service2" method="post" name="servicecontactform">
 				<p class="bold">If you would like to enquire about a printer repair please fill out the following details.</p>
 				<table width=100%>
 					<tr>
