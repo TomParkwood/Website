@@ -56,6 +56,11 @@ if( $form == "service" )
 				include('include/form-service.php');
 			}
 
+			if( $form == "service2" )
+			{
+				include('include/form-service2.php');
+			}
+
 			// create email headers
 			$headers = 'From: '.$email_from."\r\n".
 			'Reply-To: '.$email_from."\r\n" .

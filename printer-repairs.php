@@ -17,7 +17,7 @@ include('include/pds-header.php');
 			<h1>Printer Repairs</h1>
 			<div class="left">
 				<img alt="" src="images/Repairs.jpg" title="" height="150px" width="150px"/> </div>
-			<div class="left" style="width: 550px">
+			<div class="left" style="width: 80%">
 				<p>Most office printers aren't cheap.<br>In most cases, a full repair can be made for a fraction of the price of a new printer.<br>
           We can repair most types of printers and mult-function devices (formally known as photocopiers).<br>
           We operate in the Hampshire region but have many contacts country wide.</p>
@@ -30,11 +30,56 @@ include('include/pds-header.php');
 
 			</div>
 		</div>
-
 	</div>
 	<?php
 	include('include/pds-sidebar.php');
-	?></div>
+	?>
+	<div id="equal-1" class="width-three">
+		<h2>Printer Repairs Form</h2>
+			<form acton="form-sumbit.php?form=service" method="post" name="servicecontactform">
+				<p class="bold">If you would like to enquire about a printer repair please fill out the following details.</p>
+				<table width=100%>
+					<tr>
+						<td class="contact-left">
+							<label class="required">Name*</label>
+						</td>
+						<td class="contact-right">
+							<input maxlength="50" name="full_name" size="50" type="text"/>
+						</td>
+					</tr>
+					<tr>
+						<td class="contact-left">
+							<label class="required">E-Mail Address*</label>
+						</td>
+						<td class="contact-right">
+							<input maxlength="100" name="email_address" size="50" type="text"/>
+						</td>
+					</tr>
+				</table>
+				<p class="bold">To help us, help you. Please fill out as much details about the problem as possible.</p>
+				<table width=100%>
+					<tr>
+						<td class="contact-left">
+							<label>Manufacturer</label>
+						</td>
+						<td class="contact-right">
+							<input maxlength="100" name="manufacturer" size="50" type="text"/>
+						</td>
+					</tr>
+					<tr>
+						<td class="contact-left">
+							<label>Model</label>
+						</td>
+						<td class="contact-right">
+							<input maxlength="100" name="model" size="50" type"text"/>
+						</td>
+					</tr>
+				</table>
+				<p class="bold">Brief description of the problem</p>
+				<p><textarea cols="90" name="problem" rows="6"></textarea></p>
+				<p class="center"><input type="submit" value="Submit"/><input type="reset"/></p>
+	</div>
+</div>
 <?php
 include('include/pds-footer.php');
 ?>

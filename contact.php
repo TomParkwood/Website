@@ -52,13 +52,9 @@ include('include/pds-header.php');
 		<div class="separator">
 		</div>
 		<div class="main-span">
-			<h1>Romsey Office</h1>
-			<div class="left center" style="width: 315px">
-				<iframe frameborder="0" height="300" marginheight="0" marginwidth="0" name="I1" scrolling="no" src="http://maps.google.co.uk/maps?hl=en&amp;source=hp&amp;q=so51+9aq&amp;ie=UTF8&amp;hq=&amp;hnear=Hampshire+SO51+9AQ,+United+Kingdom&amp;gl=uk&amp;ei=Tw1LS8PmKJr-0gS-8dmWDw&amp;ved=0CAgQ8gEwAA&amp;t=h&amp;ll=50.981141,-1.463842&amp;spn=0.004053,0.006437&amp;z=16&amp;iwloc=A&amp;output=embed" width="300">
-				</iframe><br />
-				<small>
-				<a href="http://maps.google.co.uk/maps?hl=en&amp;source=embed&amp;q=so51+9aq&amp;ie=UTF8&amp;hq=&amp;hnear=Hampshire+SO51+9AQ,+United+Kingdom&amp;gl=uk&amp;ei=Tw1LS8PmKJr-0gS-8dmWDw&amp;ved=0CAgQ8gEwAA&amp;t=h&amp;ll=50.981141,-1.463842&amp;spn=0.004053,0.006437&amp;z=16&amp;iwloc=A" style="color: #0000FF; text-align: left">
-				View Larger Map</a></small> </div>
+			<h1>Southampton Office</h1>
+			<div class="left center" style="width:50%">
+					<iframe frameborder="0" height="450" width="600" style="border:0" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.641390820512!2d-1.4764706341063283!3d50.930350410549764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487475e8a1931c75%3A0x4d6dc9b58659bb77!2sTest+Valley+Business+Centre%2C+Test+Ln%2C+Southampton+SO16+9JW!5e0!3m2!1sen!2suk!4v1532444736460"></iframe><br><small><a href="https://www.google.co.uk/maps/place/Parkwood+Document+Solutions+Ltd/@50.9302639,-1.475383,217m/data=!3m1!1e3!4m8!1m2!2m1!1sParkwood+Document+Solutions!3m4!1s0x48747517ebd7869f:0x7192d0af9129baf3!8m2!3d50.9302985!4d-1.4748728" style="text-align:left; color:#0000ff">View on Google Maps</a></small></div>
 			<div class="right center" style="width: 315px">
 					<p><br><br>
 						Unit 2 Test Valley Business Centre,<br>
